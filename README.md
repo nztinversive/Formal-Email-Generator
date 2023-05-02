@@ -30,4 +30,4 @@ Make sure you have Streamlit installed:
 ```bash
 pip install streamlit
 
-streamlit run app.py
+streamlit run main.py
